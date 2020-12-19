@@ -84,7 +84,7 @@ function Home() {
   }
 
   return (
-    <div>
+    <div className="background">
       <Button
         variant="contained"
         color="secondary"
